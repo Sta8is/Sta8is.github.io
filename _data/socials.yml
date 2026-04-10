@@ -5,7 +5,7 @@ cv_pdf: /assets/pdf/CV_Karypidis.pdf # path to your CV PDF file
 email: e.karypidis@athenarc.gr # your email address
 github_username: Sta8is # your GitHub username
 linkedin_username: efstathios-karypidis # your LinkedIn username
-scholar_userid: # your Google Scholar ID (fill in)
-orcid_id: # your ORCID ID (fill in, format: 0000-0000-0000-0000)
-semanticscholar_id: # your Semantic Scholar author ID (fill in)
-x_username: # your X (Twitter) username (fill in)
+scholar_userid: jif2JYsAAAAJ # your Google Scholar ID (fill in)
+orcid_id: 0009-0008-0714-4070 # your ORCID ID (fill in, format: 0000-0000-0000-0000)
+semanticscholar_id: 2162188151 # your Semantic Scholar author ID (fill in)
+x_username: K_Sta8is # your X (Twitter) username (fill in)

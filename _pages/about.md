@@ -30,4 +30,5 @@ latest_posts:
 ---
 
 I am a PhD researcher at the [Archimedes Unit, Athena Research Center](https://www.archimedes.athenarc.gr/) and the [National Technical University of Athens](https://www.ntua.gr/), working under the supervision of [Associate Prof. Nikos Komodakis](https://www.komodakis.com/) and [Prof. Konstantinos Karantzalos](https://users.ntua.gr/karank/), in collaboration with [Spyros Gidaris](https://scholar.google.fr/citations?user=7atfg7EAAAAJ) from [valeo.ai](https://www.valeo.com/en/valeo-ai/). 
+
 My research focuses on **large-scale unsupervised learning**, **generative modeling**, and **computer vision**, with a particular emphasis on semantic future prediction and self-supervised representation learning.
