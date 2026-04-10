@@ -504,28 +504,28 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=", "_blank");
+          window.open("https://scholar.google.com/citations?user=jif2JYsAAAAJ", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/", "_blank");
+          window.open("https://orcid.org/0009-0008-0714-4070", "_blank");
         },
       },{
         id: 'social-semanticscholar',
         title: 'Semantic Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.semanticscholar.org/author/", "_blank");
+          window.open("https://www.semanticscholar.org/author/2162188151", "_blank");
         },
       },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/", "_blank");
+          window.open("https://twitter.com/K_Sta8is", "_blank");
         },
       },{
       id: 'light-theme',
