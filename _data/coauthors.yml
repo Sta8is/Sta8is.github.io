@@ -1,34 +1,19 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"kakogeorgiou":
+  - firstname: ["Ioannis", "I."]
+    url: https://scholar.google.com/citations?user=B_dKcz4AAAAJ
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"gidaris":
+  - firstname: ["Spyros", "S."]
+    url: https://scholar.google.com/citations?user=7atfg7EAAAAJ
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"komodakis":
+  - firstname: ["Nikos", "N."]
+    url: https://scholar.google.com/citations?user=xCPoT4EAAAAJ
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"kouzelis":
+  - firstname: ["Theodoros", "T."]
+    url: https://scholar.google.com/citations?user=a5vkWc8AAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"karantzalos":
+  - firstname: ["Konstantinos", "K."]
+    url: https://scholar.google.com/citations?user=U6t7QpsAAAAJ
