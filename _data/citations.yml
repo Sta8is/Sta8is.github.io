@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-04-29'
 papers:
   jif2JYsAAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: Point Contrastive learning for LiDAR-based 3D object detection in autonomous driving
     year: '2023'
   jif2JYsAAAAJ:8k81kl-MbHgC:
-    citations: 22
+    citations: 21
     title: 'DINO-Foresight: Looking into the Future with DINO'
     year: '2024'
   jif2JYsAAAAJ:LkGwnXOMwfcC:
@@ -34,7 +34,7 @@ papers:
     title: 'SFTC: Machine Unlearning via Selective Fine-tuning and Targeted Confusion'
     year: '2024'
   jif2JYsAAAAJ:u-x6o8ySG0sC:
-    citations: 43
+    citations: 44
     title: Comparison analysis of traditional machine learning and deep learning techniques for data and image classification
     year: '2022'
   jif2JYsAAAAJ:u5HHmVD_uO8C:
