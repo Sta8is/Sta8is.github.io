@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-01'
 papers:
   jif2JYsAAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: Point Contrastive learning for LiDAR-based 3D object detection in autonomous driving
     year: '2023'
   jif2JYsAAAAJ:8k81kl-MbHgC:
-    citations: 24
+    citations: 28
     title: 'DINO-Foresight: Looking into the Future with DINO'
     year: '2024'
   jif2JYsAAAAJ:LkGwnXOMwfcC:
@@ -14,7 +14,7 @@ papers:
     title: 'Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data--4th Place Solution'
     year: '2025'
   jif2JYsAAAAJ:UebtZRa9Y70C:
-    citations: 21
+    citations: 25
     title: Boosting Generative Image Modeling via Joint Image-Feature Synthesis
     year: '2025'
   jif2JYsAAAAJ:Y0pCki6q_DkC:
