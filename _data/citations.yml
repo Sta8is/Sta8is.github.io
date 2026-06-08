@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-08'
 papers:
   jif2JYsAAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: Point Contrastive learning for LiDAR-based 3D object detection in autonomous driving
     year: '2023'
   jif2JYsAAAAJ:8k81kl-MbHgC:
-    citations: 28
+    citations: 30
     title: 'DINO-Foresight: Looking into the Future with DINO'
     year: '2024'
   jif2JYsAAAAJ:LkGwnXOMwfcC:
