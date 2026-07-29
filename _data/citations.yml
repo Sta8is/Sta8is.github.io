@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-29'
 papers:
   jif2JYsAAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: Point Contrastive learning for LiDAR-based 3D object detection in autonomous driving
     year: '2023'
   jif2JYsAAAAJ:8k81kl-MbHgC:
-    citations: 32
+    citations: 37
     title: 'DINO-Foresight: Looking into the Future with DINO'
     year: '2024'
   jif2JYsAAAAJ:LkGwnXOMwfcC:
@@ -14,11 +14,11 @@ papers:
     title: 'Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data--4th Place Solution'
     year: '2025'
   jif2JYsAAAAJ:UebtZRa9Y70C:
-    citations: 27
+    citations: 34
     title: Boosting Generative Image Modeling via Joint Image-Feature Synthesis
     year: '2025'
   jif2JYsAAAAJ:Y0pCki6q_DkC:
-    citations: 10
+    citations: 12
     title: Advancing semantic future prediction through multimodal visual sequence transformers
     year: '2025'
   jif2JYsAAAAJ:Zph67rFs4hoC:
@@ -32,13 +32,13 @@ papers:
   jif2JYsAAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: 'Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction'
-    year: '2026'
+    year: '2025'
   jif2JYsAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 7
     title: 'SFTC: Machine Unlearning via Selective Fine-tuning and Targeted Confusion'
     year: '2024'
   jif2JYsAAAAJ:u-x6o8ySG0sC:
-    citations: 46
+    citations: 47
     title: Comparison analysis of traditional machine learning and deep learning techniques for data and image classification
     year: '2022'
   jif2JYsAAAAJ:u5HHmVD_uO8C:
