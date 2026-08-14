@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-14'
 papers:
   jif2JYsAAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: Point Contrastive learning for LiDAR-based 3D object detection in autonomous driving
     year: '2023'
   jif2JYsAAAAJ:8k81kl-MbHgC:
-    citations: 37
+    citations: 45
     title: 'DINO-Foresight: Looking into the Future with DINO'
     year: '2024'
   jif2JYsAAAAJ:LkGwnXOMwfcC:
@@ -18,7 +18,7 @@ papers:
     title: Boosting Generative Image Modeling via Joint Image-Feature Synthesis
     year: '2025'
   jif2JYsAAAAJ:Y0pCki6q_DkC:
-    citations: 12
+    citations: 13
     title: Advancing semantic future prediction through multimodal visual sequence transformers
     year: '2025'
   jif2JYsAAAAJ:Zph67rFs4hoC:
